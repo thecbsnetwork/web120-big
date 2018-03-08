@@ -1,0 +1,27 @@
+#button {
+    padding: 1em;
+    background-color: rgb(110, 70, 27);
+    color:#fff;
+}
+
+textarea {
+    background-color: rgba(110, 70, 27,0.1);
+}
+
+div {
+    padding:1em;
+}
+
+#feedback {
+    padding:0;
+}
+
+/* PHONE */
+@media all and (max-width:480px) {
+
+    #contact {
+        width:100%;
+        margin:auto;
+    }
+    
+}
