@@ -15,9 +15,8 @@
  * @todo none
  */
 
-//Here are the keys for the server: growlingwillow.com
-    $siteKey = "6LdqBTUUAAAAANC5sBhoVYbpj_FszrdfJhCzmTni";
-    $secretKey = "6LdqBTUUAAAAAEnRX4Z4_vDQuvyZBIbdBlMTh7oh";
+//reference other includes files here
+include 'big-credentials.php';
 
 //this helps eliminate PHP date errors
     date_default_timezone_set('America/Los Angeles');
